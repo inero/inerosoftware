@@ -2,7 +2,7 @@
   "name": "fixed-header-footer-layout",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://joshtynjala.github.io/semantic-ui-react-typescript-examples/fixed-header-footer-layout",
+  "homepage": "http://inero.github.io/inero.github.io/fixed-header-footer-layout",
   "dependencies": {
     "@types/jest": "^20.0.8",
     "@types/node": "^8.0.26",
