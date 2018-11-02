@@ -26,13 +26,13 @@ Ask a yes or no question to the magic 8-ball and it will give you an answer. Sty
 
 * [Run Magic 8-Ball Chat example](https://inero.github.io/semantic-ui-react-typescript-examples/magic-eight-ball-chat/)
 
-## [Loan Payment Calculator](https://inero.github.io/semantic-ui-react-typescript-examples/loan-payment-calculator/)
+## [Loan Payment Calculator](https://inero.github.io/loan-payment-calculator/)
 
 <img src="screenshots/loan-payment-calculator.png?raw=true" width="320">
 
 Change the the principal, the interest rate, and the number of years required to pay back the loan to calculate your monthly payment. Includes a custom NumericStepper component.
 
-* [Run Loan Payment Calculator example](https://inero.github.io/semantic-ui-react-typescript-examples/loan-payment-calculator/)
+* [Run Loan Payment Calculator example](https://inero.github.io/loan-payment-calculator/)
 
 ## [Todos](https://inero.github.io/semantic-ui-react-typescript-examples/todos/)
 
